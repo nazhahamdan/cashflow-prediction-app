@@ -49,7 +49,7 @@ export function Reports() {
             </span>
             <TrendingUp className="w-5 h-5 text-green-600" />
           </div>
-          <div className="text-3xl font-semibold text-gray-900">$165,000</div>
+          <div className="text-3xl font-semibold text-gray-900">165,000 MAD</div>
           <div className="flex items-center gap-2 mt-2">
             <span className="text-xs font-medium text-green-600">
               +13.8% increase
@@ -354,28 +354,28 @@ export function Reports() {
               {[
                 {
                   metric: "Cash Balance",
-                  current: "$145,000",
-                  m1: "$152,000",
-                  m2: "$158,000",
-                  m3: "$165,000",
+                  current: "145,000 MAD",
+                  m1: "152,000 MAD",
+                  m2: "158,000 MAD",
+                  m3: "165,000 MAD",
                   change: "+13.8%",
                   positive: true,
                 },
                 {
                   metric: "Operating Cash Flow",
-                  current: "$65,000",
-                  m1: "$68,000",
-                  m2: "$71,000",
-                  m3: "$73,000",
+                  current: "65,000 MAD",
+                  m1: "68,000 MAD",
+                  m2: "  71,000 MAD",
+                  m3: "73,000 MAD",
                   change: "+12.3%",
                   positive: true,
                 },
                 {
                   metric: "Accounts Receivable",
-                  current: "$75,000",
-                  m1: "$72,000",
-                  m2: "$70,000",
-                  m3: "$68,000",
+                  current: "75,000 MAD",
+                  m1: "72,000 MAD",
+                  m2: "70,000 MAD",
+                  m3: "68,000 MAD",
                   change: "-9.3%",
                   positive: true,
                 },

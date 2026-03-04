@@ -83,15 +83,15 @@ export function Prediction() {
             <div className="grid grid-cols-2 gap-4 text-sm">
               <div className="flex justify-between">
                 <span className="text-gray-600">Current Balance:</span>
-                <span className="font-medium text-gray-900">$145,000</span>
+                <span className="font-medium text-gray-900">145,000 MAD</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-600">Monthly Revenue:</span>
-                <span className="font-medium text-gray-900">$150,000</span>
+                <span className="font-medium text-gray-900">150,000 MAD</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-600">Monthly Expenses:</span>
-                <span className="font-medium text-gray-900">$85,000</span>
+                <span className="font-medium text-gray-900">85,000 MAD</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-600">Data Points:</span>
